@@ -1,1 +1,2 @@
 # odin-recipes
+Este proyecto de recetas me refresco el uso de git para usar como "maquina del tiempo" con commits de mi proyecto, fue bastante basico pero util para la practica de css, use unos divs para encajonar todos las secciones del proyecto y que no sea muy estiloso a la vista me mata de ganas de empezar a utilizar css
